@@ -12,7 +12,7 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ### STEP 3
-Create a simple table using ```<table>``` tag in html.
+Create a simple table using```<table>``` tag in html.
 
 ### STEP 4
 Add header row using ```<th>``` tag.
@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-''' 
+``` 
 <html>
     <head>
         <title>Slot Timetable</title>
@@ -122,7 +122,7 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
-'''
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-03-21 154548.png>)
